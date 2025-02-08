@@ -8,6 +8,7 @@
     height: 460px;
     background-color: aqua;
     border: 2px solid black;
+    align-items:center;
     border-radius: 1.5rem;
     text-align: center;
     
