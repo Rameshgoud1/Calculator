@@ -3,13 +3,6 @@
     margin:0px;
     text-align:center;
 }
-body {
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
-    height: 100vh;
-    background-color: #f0f0f0; /
-}
 .container{
     width:380px;
     height: 460px;
@@ -18,11 +11,12 @@ body {
     align-items:center;
     border-radius: 1.5rem;
     text-align: center;
+    margin-top:150px;
+    margin-left:550px;
 }
 .boxes{
     margin-top: 5px;;
     height:350px;
-    /* background-color: blue; */
     display: flex;
     flex-wrap: wrap;
     gap:3px;
