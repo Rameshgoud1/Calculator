@@ -3,6 +3,13 @@
     margin:0px;
     text-align:center;
 }
+body {
+    display: flex;
+    justify-content: center; /* Centers the container horizontally */
+    align-items: center; /* Centers the container vertically */
+    height: 100vh; /* Full viewport height */
+    background-color: #f0f0f0; /* Optional: Adds a background color to the body */
+}
 .container{
     width:380px;
     height: 460px;
